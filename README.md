@@ -1,2 +1,2 @@
 # Temperature-Converter
-This is temperature converter use html css js.
+I developed this  temperature converter using html css js.
